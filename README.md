@@ -1,3 +1,7 @@
-# hexlet-git
-# hexlet-git
-# hexlet-git
+# My repository
+
+## I am not gay!
+
+- [x] One
+- [x] Two
+- [ ] Three
